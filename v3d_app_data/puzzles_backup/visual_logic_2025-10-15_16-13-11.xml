@@ -1,0 +1,13 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="19.999999999999773" scrolly="20" scale="0.9"></tab>
+  <tab name="New Tab" type="CommonTab" active="true" scrollx="20" scrolly="19.999999999999886" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="stopAnimation" id="vIWC30ENFS3{k?pHtbv[" x="110" y="30">
+      <value name="VALUE">
+        <shadow type="animationList" id="VH{CiX1!/$pMJ:dCfq{b">
+          <field name="FIELDNAME">Cube</field>
+        </shadow>
+      </value>
+    </block>
+  </tab>
+  <editorsettings viewport-x="898.8" viewport-y="37" viewport-w="611.2" viewport-h="373" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
